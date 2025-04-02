@@ -1,6 +1,7 @@
 # configuration files
-.\app-auth\graphapponlytutorial\config.cfg
-.\user-auth\graphtutorial\config.cfg
+config.dev.cfg
+app-auth/graphapponlytutorial/config.cfg
+user-auth/graphtutorial/config.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -132,7 +133,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-config.dev.cfg
+
 *.zip
-app-auth/graphapponlytutorial/config.cfg
-user-auth/graphtutorial/config.cfg
