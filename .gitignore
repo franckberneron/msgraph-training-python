@@ -1,3 +1,7 @@
+# configuration files
+./app-auth/graphapponlytutorial/config.cfg
+./user-auth/graphtutorial/config.cfg
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
