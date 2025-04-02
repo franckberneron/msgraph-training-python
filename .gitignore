@@ -1,6 +1,6 @@
 # configuration files
-./app-auth/graphapponlytutorial/config.cfg
-./user-auth/graphtutorial/config.cfg
+.\app-auth\graphapponlytutorial\config.cfg
+.\user-auth\graphtutorial\config.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -134,3 +134,5 @@ dmypy.json
 
 config.dev.cfg
 *.zip
+app-auth/graphapponlytutorial/config.cfg
+user-auth/graphtutorial/config.cfg
