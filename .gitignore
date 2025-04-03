@@ -138,3 +138,4 @@ dmypy.json
 *.zip
 app-auth/graphapponlytutorial/config.cfg
 user-auth/graphtutorial/config.cfg
+*.cfg
