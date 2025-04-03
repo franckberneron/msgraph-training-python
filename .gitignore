@@ -2,6 +2,7 @@
 config.dev.cfg
 app-auth/graphapponlytutorial/config.cfg
 user-auth/graphtutorial/config.cfg
+franck_project/config.cfg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
